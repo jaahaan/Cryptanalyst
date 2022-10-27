@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="papaya_whip_200">#E0E1DD</color>
+    <color name="venetine_red_500">#1B263B</color>
+    <color name="burn_red_700">#0D1B2A</color>
+    <color name="air_blue_200">#778DA9</color>
+
+    <color name="blue_200">#ACBACD</color>
+    <color name="purssian_blue_700">#415A77</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

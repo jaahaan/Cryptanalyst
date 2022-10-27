@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cryptanalyst</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encryption">Encryption</string>
+    <string name="decryption">Decryption</string>
+    <string name="caesarCipher">Caesar Cipher</string>
+    <string name="playfairCipher">Playfair Cipher</string>
+    <string name="plaintext">Plaintext</string>
+    <string name="ciphertext">Ciphertext</string>
+    <string name="key">Key</string>
+    <string name="clear">Clear</string>
+    <string name="answer">Answer</string>
+    <string name="EP">Enter Plaintext</string>
+    <string name="EC">Enter Ciphertext</string>
+    <string name="EK">Enter Key</string>
+    <string name="decrypted">Decrypted</string>
+    <string name="encrypted">Encrypted</string>
+    <string name="rail_fence">Rail Fence</string>
+    <string name="row_transposition">Row Transposition</string>
+    <string name="vernam_cipher">Vernam Cipher</string>
+    <string name="vignere_cipher">Vignere Cipher</string>
+    <string name="caesar_cipher">Caesar Cipher</string>
+    <string name="playfair_cipher">Playfair Cipher</string>
+    <string name="hill_cipher">Hill Cipher</string>
+    <string name="calculate">Calculate</string>
+    <string name="modulo">Modulo</string>
+    <string name="mod">Mod</string>
+    <string name="integer">Integer</string>
+
+</resources>
